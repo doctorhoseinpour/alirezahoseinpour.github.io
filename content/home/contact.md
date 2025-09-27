@@ -16,27 +16,27 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: letmemakenewone@gmail.com
+  email: alirezzzhp1378@gmail.com
 
 
 
   contact_links:
     - icon: building-columns
       icon_pack: fas
-      link: mailto:aakhavan3824@sdsu.edu
-      name: aakhavan3824@sdsu.edu
+      link: mailto:ahosein@bgsu.edu
+      name: ahosein@bgsu.edu
     - icon: github
       icon_pack: fab
-      name: GitHub (ArshiAAkhavan)
-      link: 'https://github.com/ArshiAAkhavan'
+      name: GitHub
+      link: 'https://github.com/doctorhoseinpour'
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
-      link: 'https://www.linkedin.com/in/arshia-akhavan/'
+      link: 'https://www.linkedin.com/in/alireza-hoseinpour-26a734248/'
     - icon: telegram
       icon_pack: fab
       name: Telegram
-      link: 'https://t.me/letmemakenewone'
+      link: 'https://t.me/alirezzzhp'
 
 design:
   columns: '2'

@@ -2,10 +2,10 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: features
-
+active: false
 # This file represents a page section.
 headless: true
-
+active: false
 # Order that this section appears on the page.
 weight: 80
 

@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Industrial Experience
 subtitle:
@@ -22,64 +22,66 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
   - title: Software Engineer
-    company: Sotoon
-    company_url: 'https://sotoon.ir'
-    company_logo: sotoon
-    location: Tehran
-    date_start: '2023-01-01'
-    description: |2-
-        Sotoon is a B2B cloud provider which focuses on diﬀerent aspects of Cloud Computing, such as hardware abstraction,
-        Providing storage servers, DNS, CDN, Bigdata solution and managed k8s cluster. I worked in the K8s as a Service team.
-            </br>
-        Experiences:
-        * Using [SIGS/Cluster-api](https://github.com/kubernetes-sigs/cluster-api) to provide bootstraping and operations as a service for k8s.
-        * Develop and Maintain SotoonCSI, a **CSI implementation** that integrates with Sotoon's storage backend.
-        * Develop **node-AutoScaler** for k8s cluster which integrates with Sotoon's Computation backend with the aim of reducing customers costs.
-        * Develop and maintain a **CCM** module to provide loadbalancers for k8s clusters using sotoon's compute infrastructure.
-        * Provide additional cluster plugins such as **DNS** and **CNI** as an automated solution.
-        * Plan and Lead **Migration** of **over 100 customer**'s k8s-clusters to the new infrastructure with **zero downtime**.
-
-  - title: Data Platform Engineer
     company: Digikala
     company_url: 'https://www.digikala.com'
     company_logo: dk
     location: Tehran
-    date_start: '2021-01-01'
-    date_end: '2023-01-01'
+    date_start: '2022-09-01'
+    date_end: '2024-04-01'
     description: |2-
-        Digikala is the largest e-commerce company in Iran with 40+ million users. As a member of the Bigdata & AI team, my job is
-        to provide the necessary infrastructure needed to store and process the data accumulated from the users.
+        Digikala is the largest e-commerce company in Iran with 40+ million users.
             </br>
-        Experiences:
-        * Develope Karavan, a **Parallel Processing Engine** for data pipelines on top of Apache Spark.
-        * Maintain and Develop our own fork of **Apache Spark operator**.
-        * **Reduce Computation time** of Data Pipelines by revising our data retrieval models and Queries.
-        * Reduce latency of hot APIs by locating **critical paths** in the codebase of the framework and optimizing them.
-        * Use K8s as the main orchestrator with HDFS as the storage backend to provided a variety of tools for the DS/DE team to work with, including **Airﬂow** as our job scheduler and **Spark** as our main batch/stream processor and pipeline engine.
-        * maintain **Kafka cluster** as a Sync and **Debezium **to sync external Databases to it.
-        * Manage the platform’s infrastructure based on **GitOps** protocols using **ArgoCD**. Automate deployment of our APIs using ArgoCD with **Kustomize** and **Helm** charts.
-        * Deploy and maintain a staging environment and build a framework for the Data Science team to better interact with our infrastructure.
+        **Experiences:**
+        * Developed scalable systems, optimizing high-traffic promotions and building real-time user interaction infrastructure.
+        * Engineered software for two Black Friday events, with zero downtime and meeting commercial goals.
 
-  - title: DevOps Engineer
+        **Technologies:** PHP, Redis, Memcached, Kafka, MySQL, REST APIs, Jenkins, GitLab, Git, Scrum.
+  - title: Co-founder
+    company: AYOT
+    company_url: 'https://www.linkedin.com/company/ayot-iot/'
+    company_logo: ayot
+    location: Tehran
+    date_start: '2021-02-01'
+    date_end: '2023-08-01'
+    description: |2-
+        A novel cloud-based IoT platform for smart home appliances, developed in partnership with Sharif University of Technology’s startup accelerator.
+            </br>
+        **Experiences:**
+        * Supported MVP development and mentored interns from the Computer Engineering department.
+
+        **Technologies:** Python, FastAPI, PostgreSQL, Kafka, Redis, Docker, REST APIs, MQTT.
+
+
+  - title: Software Engineer
     company: Tapsell
     company_url: 'https://tapsell.com/'
     company_logo: tapsell
     location: Tehran
-    date_start: '2020-01-01'
-    date_end: '2021-03-01'
+    date_start: '2022-01-01'
+    date_end: '2022-09-01'
     description: |2-
-        Tapsell is one of the prominent ad-infrastructure providing company in Iran. As a DevOps engineer, I was tasked with Providing the infrastructure needed by other technical teams in the corporation.
+        Tapsell is one of the largest ad-infrastructure providing companies in Iran.
             </br>
-        Experiences:
-        * Manage and automate deployment procedures of databases such as **MongoDB**, **Cassandra**, and **ElasticSearch** with **Ansible**.
-        * Optimize **Cassandra**’s **Disk usage** and life time for diﬀerent workloads; resulting in over **50% reduction in total disk size** of the cluster.
-        * Develope a fully automated backup, validity check, and restore tool for managing backups in a cloud native infrastructure.
-        * Deploy and maintain the staging cluster using k8s and provide syncing pipelines with the Production environment.
-        * **Migrate** CI/CD ﬂows from jenkins to **GitlabCI**.
-        * Work with **Terraform** to automate deploying computational infrastructure on VMWare.
-        * Administrate Linux-based virtual machines and address networking issues.
+        **Experiences:**
+        * Designed and implemented the software for Tapsell’s new Creative Management Platform (CMP) product from scratch. 
+
+        **Technologies:** Java, Kotlin, Spring Boot, Redis, MongoDB, PostgreSQL, REST APIs, Caffeine, Kubernetes, GitLab CI/CD, Maven, Git, JUnit, Mockito, Scrum.
+
+  - title: Software Engineer
+    company: Farazpardazan
+    company_url: 'https://farazpardazan.com'
+    company_logo: FP (1)
+    location: Tehran
+    date_start: '2019-02-01'
+    date_end: '2019-09-01'
+    description: |2-
+        Faraz Pardazan is a software company focused on developing digital solutions for banking, payments, and financial services.
+            </br>
+        **Experiences:**
+        * Contributed to "Hamrah Novin", the official mobile banking application of [EN Bank](https://en.wikipedia.org/wiki/EN_Bank).
+
+        **Technologies:** Java, Spring Boot, Hibernate, SQL.
 
 design:
   columns: '2'

@@ -2,7 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
-
+active: false
 # This file represents a page section.
 headless: true
 
@@ -24,25 +24,25 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: System
-      tag: System
-    - name: Embedded
-      tag: ERS
-    - name: OS
-      tag: OS
-    - name: Software
-      tag: SE
-    - name: HPC
-      tag: HPC
-    - name: Network
-      tag: Net
-    - name: Compiler
-      tag: compiler
-    - name: Health
-      tag: Health
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: System
+  #     tag: System
+  #   - name: Embedded
+  #     tag: ERS
+  #   - name: OS
+  #     tag: OS
+  #   - name: Software
+  #     tag: SE
+  #   - name: HPC
+  #     tag: HPC
+  #   - name: Network
+  #     tag: Net
+  #   - name: Compiler
+  #     tag: compiler
+  #   - name: Health
+  #     tag: Health
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

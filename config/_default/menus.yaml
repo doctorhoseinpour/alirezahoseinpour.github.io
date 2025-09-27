@@ -9,25 +9,16 @@ main:
     weight: 10
   - name: Honors
     url: '#honors'
-    weight: 20
-  - name: Academic Services
-    url: '#academic-services'
-    weight: 21
+    weight: 40
   - name: Industrial Experience
     url: '#industrial-experience'
     weight: 30
-  - name: Projects
-    url: '#projects'
-    weight: 31
   - name: Service
     url: '#voluntary'
-    weight: 40
+    weight: 50
   - name: Publications
     url: '#publications'
-    weight: 50
-  - name: Skills
-    url: '#programming-languages'
-    weight: 51
+    weight: 20
   - name: Contact
     url: '#contact'
     weight: 60

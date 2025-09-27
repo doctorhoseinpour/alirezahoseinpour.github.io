@@ -10,15 +10,12 @@ summary: |2-
     * Teammates:
       * <a href="https://kianakiashemshaki.github.io">Kiana Kiashemshaki</a>
 
-      * <a href="https://github.com/doctorhoseinpour">Alireza Hosseinpur</a>
+      * <a href="https://github.com/ArshiAAkhavan">Arshia Akhavan</a>
 
 tags:
     - Health
 
 date: "2025-04-06T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: https://github.com/titansarus/PintOS
 
 
 

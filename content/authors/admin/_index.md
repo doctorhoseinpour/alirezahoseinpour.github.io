@@ -1,10 +1,10 @@
 ---
 # Display name
-title: ArshiA Akhavan
+title: Alireza Hoseinpour
 
 # Full name (for SEO)
-first_name: Arshia
-last_name: Akhavan
+first_name: Alireza
+last_name: Hoseinpour
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,37 +14,30 @@ role: Masters Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: San Diego State University
-    url:  "https://sdsu.edu"
+  - name: Bowling Green State University
+    url:  "https://www.bgsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-# TODO: ARSHIA
-bio: My research interests include computer systems, parallel computing and distributed systems, programming languages and verification, high performance computing, operating systems, computer architecture, and software engineering.
+bio: My research interests include AI for Software Engineering, Software Engineering for AI, Software Maintenance and Evolution, Software Testing, Software Analytics, and Empirical Software Engineering.
 
 # Interests to show in About widget
 interests:
-    - Computer Systems
-    - Parallel Computing
-    - Distributed Systems
-    - Programming Languages
-    - Verification
-    - High Performance Computing
-    - Operating Systems
-    - Computer Networking
-    - WebAssembly
+    - AI for Software Engineering
+    - Software Engineering for AI
+    - Software Testing
+    - Software Analytics
+    - Empirical Software Engineering
+    - Software Maintenance and Evolution
 
 # Education to show in About widget
 education:
   courses:
     - course: Masters in Computer Science
-      institution: San Diego State University
-      year: Fall 2025 - Currently 
+      institution: Bowling Green State University
+      year: Spring 2025 - Present
     - course: Bachelor of Science in Computer Engineering
       institution: Sharif University of Technology
       year: Fall 2018 - July 2024
-    - course: High School Diploma in Mathematics and Physics
-      institution: Allame Helli Tehran NODET (SAMPAD) High School
-      year: Fall 2014 - Spring 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,10 +50,10 @@ social:
 
   - icon: github
     icon_pack: fab
-    link: https://github.com/ArshiAAkhavan
+    link: https://github.com/doctorhoseinpour
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/arshia-akhavan/
+    link: https://www.linkedin.com/in/alireza-hoseinpour-26a734248/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -75,15 +68,15 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a Master’s student in the Computer Science Department at [Bowling Green State University (BGSU), OH, USA](https://www.bgsu.edu/), where I work as a research assistant under [Abbas Heydarnoori](https://heydarnoori.github.io/). My research focuses on applying artificial intelligence to software engineering (AI4SE), with an emphasis on large language model (LLM) agents, retrieval-augmented generation (RAG), vector databases, and knowledge graphs for issue report management. As part of this broad research endeavor, I have contributed to the design and implementation of [LinkAnchor](https://arxiv.org/abs/2508.12232), an autonomous LLM-based agent for issue–commit link recovery that outperforms state-of-the-art methods by up to 262% in Hit@1 accuracy.
 
-I am a Master’s student in the Computer Science Department at San Diego State University, where I work as a research assistant under [Bryan Donyanavard](https://bryandony.github.io/). My research focuses on deploying 3D Scene Graph (3DSG) edge services that maintain consistent global scene representations and serve them to multiple autonomous agents in real time. I develop adaptive policies for reconciling distributed updates and serving resource-aware subgraphs, enabling reliable operation of autonomous systems in dynamic environments. I am also broadly interested in formal methods and distributed systems as foundations for building correct and scalable autonomous cyber-physical systems.
+I am currently developing similar approaches for other critical issue management tasks, including issue report classification, which is important for software maintenance and security, and automatic bug reproducibility test generation, which supports downstream tasks such as automated program repair.
 
-I have industry experience as a Software Engineer at Sotoon, a cloud service provider in Iran, and as a Data Platform Engineer at Digikala, the largest e-commerce company in the Middle East.
+In addition to my academic research, I have strong industry experience as a software engineer at prominent tech companies, including [Digikala](https://www.digikala.com/)
+, the largest e-commerce platform in the Middle East.
 
 I received my Bachelor of Science in Computer Engineering from Sharif University of Technology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-academic-CV.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
 </br>
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-industrial-CV.pdf" "newtab" >}}industrial resumé.{{< /staticref >}}
-</br>
-But be aware that <a href="/">the web page </a> is **more up to date!**
+
