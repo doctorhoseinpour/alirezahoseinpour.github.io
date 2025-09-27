@@ -72,8 +72,7 @@ I am a Master’s student in the Computer Science Department at [Bowling Green S
 
 I am currently developing similar approaches for other critical issue management tasks, including issue report classification, which is important for software maintenance and security, and automatic bug reproducibility test generation, which supports downstream tasks such as automated program repair.
 
-In addition to my academic research, I have strong industry experience as a software engineer at prominent tech companies, including [Digikala](https://www.digikala.com/)
-, the largest e-commerce platform in the Middle East.
+In addition to my academic research, I have strong industry experience as a software engineer at prominent tech companies, including [Digikala](https://www.digikala.com/), the largest e-commerce platform in the Middle East.
 
 I received my Bachelor of Science in Computer Engineering from Sharif University of Technology.
 
