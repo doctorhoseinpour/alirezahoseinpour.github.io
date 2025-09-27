@@ -3,10 +3,10 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - master    # Update to your default branch
+      - main    # Update to your default branch
   pull_request:
     branches:
-      - master
+      - main
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
