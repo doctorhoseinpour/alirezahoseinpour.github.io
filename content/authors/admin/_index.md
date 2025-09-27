@@ -77,6 +77,6 @@ In addition to my academic research, I have strong industry experience as a soft
 
 I received my Bachelor of Science in Computer Engineering from Sharif University of Technology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ArshiA-academic-CV.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Alireza_Hoseinpour_2025.pdf" "newtab" >}}academic resumé.{{< /staticref >}}
 </br>
 
