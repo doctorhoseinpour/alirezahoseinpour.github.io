@@ -2,7 +2,7 @@
 title: "LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery"
 authors:
 - Arshia Akhavan
-- Alireza {Hoseinpour}
+- admin
 - Mehdi Keshani
 - Amir M. Mir
 - Abbas Heydarnoori

@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Robustness of Pre-Trained Deep Neural Networks against Spurious Correlations"
 authors:
-- Alireza Hoseinpour
+- admin
 - Majid Taherkhani
 - Fahimeh HosseiniNoohdani
 - Hesam Asadollahzadeh
